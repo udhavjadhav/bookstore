@@ -36,15 +36,17 @@ A simple RESTful API for managing books. This API allows users to perform CRUD o
 3. Install the required npm packages:
 
   ```bash
+
   npm install
 
-## Running the Application
+4. Running the Application
 
 1. Ensure MongoDB is running.
 
 2. Start the Node.js application:
 
-```bash
-npm start
+  ```bash
+
+  npm start
 
 
