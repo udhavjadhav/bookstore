@@ -36,7 +36,6 @@ A simple RESTful API for managing books. This API allows users to perform CRUD o
 3. Install the required npm packages:
 
   ```bash
-
   npm install
 
 4. Running the Application
@@ -46,7 +45,6 @@ A simple RESTful API for managing books. This API allows users to perform CRUD o
 2. Start the Node.js application:
 
   ```bash
-
   npm start
 
 
